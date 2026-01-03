@@ -9,7 +9,7 @@ project. Feel free to visit these links (more will be added over time).
 
 [1] UV - Python Dependency for AI: https://docs.astral.sh/uv/getting-started/installation/
 
-[2] Free OpenAI Keys - From dan1471's GitHub Repo: https://github.com/dan1471/FREE-openai-api-keys
+[2] ....
 
 [3] ....
 
